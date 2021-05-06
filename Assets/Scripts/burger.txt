@@ -1,0 +1,17 @@
+animation
+6 frames and 1:40 long
+
+change each sprite to 20 pixel per unit for standing
+change filtering to bilinear
+
+in animator window
+for idle add motion to it but set speed as 0
+
+
+* -> *death(transition) -> next *idle	
+	collision with burger etc.
+*idle <-> *walk
+*idle -> *jump
+*walk -> *jump
+
+everything goes to its death

@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: caa2e494d6f09ed47a84fb743f939281
+timeCreated: 1511075139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_0
+    21300002: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_1
+    21300004: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_2
+    21300006: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_3
+    21300008: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_4
+    21300010: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_5
+    21300012: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_6
+    21300014: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_7
+    21300016: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_8
+    21300018: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_9
+    21300020: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_10
+    21300022: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_11
+    21300024: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_12
+    21300026: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_13
+    21300028: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_15
+    21300030: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_14
+    21300032: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_16
+    21300034: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 412
+        width: 222
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 727
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 726
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 774
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 725
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 598
+        width: 126
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 633
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 238
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 161
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 276
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 298
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 292
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 292
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 356
+        width: 74
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 136
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 66
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 846
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Sonic the Hedgehog 2 - Casino Night Zone Beta (1)_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 487
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
